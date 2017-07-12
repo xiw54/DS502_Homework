@@ -1,7 +1,7 @@
 Output of the model:
 
 Learning rate 0.1:
-INFO:root:Epoch[0] Batch [100]	Speed: 1136.39 samples/sec	accuracy=0.112178\
+INFO:root:Epoch[0] Batch [100]	Speed: 1136.39 samples/sec	accuracy=0.112178
 INFO:root:Epoch[0] Batch [200]	Speed: 1148.70 samples/sec	accuracy=0.113100
 INFO:root:Epoch[0] Batch [300]	Speed: 1108.10 samples/sec	accuracy=0.209000
 INFO:root:Epoch[0] Batch [400]	Speed: 1100.86 samples/sec	accuracy=0.628500
